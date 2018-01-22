@@ -1,0 +1,8 @@
+body, html {
+  height: 100%;
+}
+
+.ui.grid {
+    height: 100%;
+    align-self: center;
+}
